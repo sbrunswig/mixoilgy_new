@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-mixoilgy-staging-191040-authRole",
+      "UnauthRoleArn": "arn:aws:iam::298740387862:role/amplify-mixoilgy-staging-191040-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::298740387862:role/amplify-mixoilgy-staging-191040-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-mixoilgy-staging-191040-deployment",
+      "UnauthRoleName": "amplify-mixoilgy-staging-191040-unauthRole",
+      "StackName": "amplify-mixoilgy-staging-191040",
+      "StackId": "arn:aws:cloudformation:us-east-1:298740387862:stack/amplify-mixoilgy-staging-191040/f11d0c50-a16e-11ec-a676-0e175ad72ea3",
+      "AmplifyAppId": "d3qq69l91tugz3"
+    },
+    "categories": {
+      "auth": {
+        "mixoilgy": {}
+      }
+    }
+  }
+}

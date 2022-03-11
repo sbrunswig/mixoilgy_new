@@ -1,0 +1,12 @@
+{
+  "AppSyncApiName": "mixoilgy",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthCognitoUserPoolId": {
+    "Fn::GetAtt": [
+      "authmixoilgy",
+      "Outputs.UserPoolId"
+    ]
+  },
+  "AuthModeLastUpdated": "2022-03-11T19:39:08.721Z"
+}
